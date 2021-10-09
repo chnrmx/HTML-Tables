@@ -1,0 +1,31 @@
+
+h1 {
+    text-align:center;
+    color:#371a1a;
+}
+body {
+    background-color: #ffcccc ;
+    text-align:left;
+    width:2000px;
+    
+}
+table {
+    background-color:  #ff9999;
+    margin:auto;
+    display:auto;
+    width:1100px;
+    border-collapse: collapse;
+   
+}
+td, th {
+   border:1px #ffe6e6;
+   text-align:left;
+   padding:10px;
+   width:300px;
+   border-style: solid;
+
+}
+th {
+    background-color: #990000;
+    color:white;
+}
